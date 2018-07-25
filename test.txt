@@ -1,7 +1,4 @@
 /home/liu/liuao/live555/video/1_1.ts
-/home/liu/liuao/live555/video/1_1.ts
-/home/liu/liuao/live555/video/1_1.ts
-/home/liu/liuao/live555/video/1_1.ts
 /home/liu/liuao/live555/video/1_2.ts
 /home/liu/liuao/live555/video/1_3.ts
 /home/liu/liuao/live555/video/1_4.ts
